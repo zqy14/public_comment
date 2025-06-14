@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Consul">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../day15/user-api/basic/consul/consul.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulRegister">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../day15/user-api/basic/consul/consul.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageDto">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/dao/common.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageResult">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/dao/common.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../day15/user-api/basic/consul/consul.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749866434960" />
+              <option name="schema">
+                <list>
+                  <option value="Consul" />
+                  <option value="ConsulRegister" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../day15/user-api/basic/init/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749866389536" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/basic/init/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749867380285" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/dao/common.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749865022483" />
+              <option name="schema">
+                <list>
+                  <option value="PageDto" />
+                  <option value="PageResult" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/global/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749864980651" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/sdk/minio.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749867421902" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../video-project/video-api/api/middilware/time.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749865214991" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../video-project/video-api/api/router/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1749865214986" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="consul" value="Consul" />
+        <entry key="consul_register" value="ConsulRegister" />
+        <entry key="page_dto" value="PageDto" />
+        <entry key="page_result" value="PageResult" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1749864769932" />
+  </component>
+</project>
